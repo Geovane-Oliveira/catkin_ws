@@ -1,0 +1,8 @@
+prefix=/home/osboxes/catkin_ws/devel
+
+Name: jackal_viz
+Description: Description of jackal_viz
+Version: 0.4.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
